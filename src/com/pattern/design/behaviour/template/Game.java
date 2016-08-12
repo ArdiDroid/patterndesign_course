@@ -1,4 +1,4 @@
-package com.pattern.design.behaviour;
+package com.pattern.design.behaviour.template;
 
 public abstract class Game {
 	   abstract void initialize();
@@ -12,7 +12,7 @@ public abstract class Game {
 	      initialize();
 
 	      //start game
-	      startPlay();
+	      startPlay();	
 
 	      //end game
 	      endPlay();

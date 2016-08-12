@@ -1,4 +1,4 @@
-package com.pattern.design.behaviour;
+package com.pattern.design.behaviour.template;
 
 public class Football extends Game {
 
