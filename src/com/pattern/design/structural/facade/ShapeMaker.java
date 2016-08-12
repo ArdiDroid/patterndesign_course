@@ -20,4 +20,4 @@ public class ShapeMaker {
 	   public void drawSquare(){
 	      square.draw();
 	   }
-	}}
+	}
