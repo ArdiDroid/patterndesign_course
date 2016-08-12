@@ -14,6 +14,8 @@ public class ProxyImage implements Image{
 	      if(realImage == null){
 	         realImage = new RealImage(fileName);
 	      }
+	      //print start
 	      realImage.display();
+	      //print end
 	   }
 	}

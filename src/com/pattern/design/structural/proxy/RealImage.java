@@ -11,7 +11,9 @@ public class RealImage implements Image {
 
 	   @Override
 	   public void display() {
+		   //print start
 	      System.out.println("Displaying " + fileName);
+		   //print end
 	   }
 
 	   private void loadFromDisk(String fileName){
